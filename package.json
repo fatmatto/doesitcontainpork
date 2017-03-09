@@ -1,0 +1,19 @@
+{
+  "name": "doesitcontainpork",
+  "version": "1.0.0",
+  "description": "Useful app for Ahmad when he needs to buy food.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatmatto/doesitcontainpork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatmatto/doesitcontainpork/issues"
+  },
+  "homepage": "https://github.com/fatmatto/doesitcontainpork#readme"
+}
